@@ -1,0 +1,14 @@
+#audio{
+    padding: 20px;
+    margin: 20px;
+}
+.vedio{
+    padding: 20px;
+    margin: 20px;
+}
+body{
+    border: 2px solid black;
+}
+progress{
+    margin: 20px;
+}

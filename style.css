@@ -1,0 +1,10 @@
+#message{
+    width: 300px;
+}
+.main{
+    outline: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    margin-right: 70%;
+}
+  
